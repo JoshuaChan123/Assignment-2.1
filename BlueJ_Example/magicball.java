@@ -10,7 +10,6 @@ public static void main(String[] args){
         sc.nextLine();
         double a = Math.random()*20+1;
         int b = (int) a;
-        System.out.println(b);
 
         if (b == 1){
             System.out.println("It is certain.");
